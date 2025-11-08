@@ -33,7 +33,6 @@ Principais tabelas:
     - Via PGADMIN
         - Abra o Query Tool conectado ao banco influencers_db.
         - Cole o conteúdo de influencers_schema.sql e clique em Executar (▶️).
-        - 
   ## 📁 Estrutura do Script
 
   O arquivo influencers_schema.sql está dividido em três seções principais:
